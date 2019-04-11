@@ -4,7 +4,7 @@ fi
 
 color_normal=light-gray/black
 
-if [ -e ${prefix}/themes/debian-mate/theme.txt ]; then
+if [ -e ${prefix}/themes/brannar/theme.txt ]; then
   insmod png
-  theme=${prefix}/themes/debian-mate/theme.txt
+  theme=${prefix}/themes/brannar/theme.txt
 fi

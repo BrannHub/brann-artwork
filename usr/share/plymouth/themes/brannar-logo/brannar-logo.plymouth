@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=Debian MATE Logo
-Description=A theme that features a blank background with a logo.
+Name=BrannAr Logo
+Description=El tema oficial para el sistema operativo BrannAR.
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/debian-mate-logo
-ScriptFile=/usr/share/plymouth/themes/debian-mate-logo/ubuntu-mate-logo.script
+ImageDir=/usr/share/plymouth/themes/brannar-logo
+ScriptFile=/usr/share/plymouth/themes/brannar-logo/brannar-logo.script
