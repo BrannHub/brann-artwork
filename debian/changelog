@@ -1,5 +1,11 @@
+brann-artwork (0.1.0-2) stable; urgency=medium
+
+  * Review proprietary icons
+
+ -- Omar Jair Purata Funes <omarpurataf@gmail.com>  Sat, 29 Jun 2019 18:22:59 -0500
+
 brann-artwork (0.1.0-1) unstable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
- -- Omar Jair Purata Funes <omar@VentGrey>  Sat, 29 Jun 2019 18:19:20 -0500
+ -- Omar Jair Purata Funes <omarpurataf@gmail.com>  Sat, 29 Jun 2019 18:19:20 -0500
