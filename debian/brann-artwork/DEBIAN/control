@@ -1,0 +1,10 @@
+Package: brann-artwork
+Version: 0.1.0-2
+Architecture: all
+Maintainer: Omar Jair Purata Funes <omarpurataf@gmail.com>
+Installed-Size: 9
+Section: x11
+Priority: optional
+Homepage: https://github.com/BrannAR/brann-artwork
+Description: BrannAr themes and artwork
+ This package contains Brann themes and artwork.
